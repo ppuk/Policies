@@ -1,0 +1,5 @@
+Homeless
+=================
+The current system for the homeless is expensive and inefficient for rehabilitation. The UK pirate party will look at other well-adapted housing first or rapid re-housing policies. Both of these policies of Rapid re-housing and Housing First allow for more money to be made by rehabilitating quicker than under the current system, more efficient and less likely to fail the rehabilitating then the current system where 80% of people get a who are house is successful. This will be alongside but optional rehabilitation for Drugs, alcoholism, anger issues, Job finding and securing and Other issues. Being cleaner from alcohol, drugs And other violations Current will not lead to the loss of housing scheme.
+
+This was also mean that homeless people are less likely to rely on emergency services such as Healthcare (from being exposed to the elements and stress), less likely to use drugs (because support can be ongoing without risk of is going away if relapse and more likely to be used excessively rehabilitated because of more easily finding a stable job and income.
