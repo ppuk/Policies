@@ -14,7 +14,7 @@ jeopardise the independence and competitiveness of public-sector services.
 We recognise the result of the 2016 Referendum on the UK's membership of the EU.
 With a 52% share of the vote to Leave, it represents a clear desire to change
 our relationship with the EU. However, the Pirate Party is unable to either
-proceed with the exit or reverse it alone. As such, the Pirate Party would
+proceed with reverse it alone. As such, the Pirate Party would
 support any outcome that ensures and safeguards our principles, such as the
 protection of human rights, civil  and digital liberties,  knowledge sharing,
 accountability and transparency of government, and evidence-based policy-making.
