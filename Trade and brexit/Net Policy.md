@@ -13,3 +13,9 @@ Everyone must be able to have access to an Internet connection that does
 not discriminate against any service or competitor. Traffic management
 measures shall only be allowed in exceptional circumstances, operated in
 a clear and transparent manner and only for technical reasons.
+
+### Upgrading of Net Infrastructure
+Pirate Party UK strongly supports the wide development of
+state-of-the-art communications infrastructure. Our goal is to provide access to
+broadband for everyone in the that we with directly trade. We would seek to end private monopolies over
+the critical internet backbone structure making improved connectivity possible.
