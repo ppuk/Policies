@@ -31,16 +31,13 @@ Adequate protection against crime is an important responsibility of the
 state. We must ensure this responsibility is fulfilled through an
 intelligent, rational and evidence-based security policy.
 
-Whilst we are members of the EU, we would also seek that the annulled 
-European Data Retention Directive remains dead.
-
 Pirate Party UK will demand strong data protection guarantees in any trade deals
 with other countries, whether those trade deals are as part of EU Membership, or
-our own following Brexit. We will push to maintain strong punishments for 
-organisations that mishandle private personal data, especially when that 
+our own following Brexit. We will push to maintain strong punishments for
+organisations that mishandle private personal data, especially when that
 mishandling results in a data breach where private information is exposed.
 
-Pirate Party UK will reject the introduction of compulsory monitoring and 
+Pirate Party UK will reject the introduction of compulsory monitoring and
 reporting devices, such as "smart meters".
 
 Pirate Party UK will seek to enforce strict standards for any industrial systems
@@ -68,33 +65,28 @@ invasive procedures. We oppose the collection of biometric data from
 innocent people and its storage in central databases.
 
 ### Fundamental rights "stamp" for new safety measures
-Pirate Party UK would ask the European Fundamental Rights Agency to 
-systematically examine all current and future security programmes in the EU. The
-approach of the security agencies of the EU must be reviewed on the
+Pirate Party UK would systematically examine all current and future security programmes in the UK. The
+the approach of the security agencies of the UK must be reviewed on the
 basis of evidence, to avoid adverse side effects and examine
-alternatives and ensure compatibility with our fundamental rights. We
-must ensure that the European Agency for Fundamental Rights has the
+alternatives and ensure compatibility with our fundamental rights.
+We will create a  Human Rights Agency and ensure that the creation of a Human Rights Agency for Fundamental Rights has the
 relevant powers to accomplish this task.
 
-Should the UK leave the EU, we would push for the establishment of a similar
-Human Rights Agency be created to undertake this work with UK legislation and
-UK security programmes.
 
 ### Security Research and Monitoring Software
 Pirate Party UK would seek to prevent the funding of research into technologies
 that would be used to violate citizens' fundamental rights.
 
-### European Data Protection Regulation With a High Level of Data Protection
-EU Data Protection Regulation should not lead to a lowering
-of data protection standards, but must strengthen the rights of European
-citizens in all European countries.
+### Data Protection Regulation With a High Level of Data Protection
+Data Protection Regulation should not lead to a lowering
+of data protection standards, but must strengthen the rights of citizens.
 
 Pirate Party UK considers that metadata created as a side effect of using any
-technology system or service also be considered personal data. Users should be 
-able to request the type and content of any data given to third parties at any 
+technology system or service also be considered personal data. Users should be
+able to request the type and content of any data given to third parties at any
 time.
 
-Personal data for data trade, advertising or market or opinion research must be 
+Personal data for data trade, advertising or market or opinion research must be
 allowed only with the active and informed consent of the person concerned.
 
 # Refugee policy

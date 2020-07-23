@@ -1,0 +1,3 @@
+legal system and government
+================
+Any trade agreements must not undermine the power of parliament And must not hinder the UK government from being able to serve Justice on both UK companies and trades brought in from other Countries With an exception to wear in the UK pirate party agree Being part of an International Court Such as the European Union Court or Other similar Justice systems. However, I system of Investor-state dispute settlement would not be compatible with this as it doesn't allow for complete and fair Justice.  Any Justice system adopted would have to be both there and impartial to both sides.

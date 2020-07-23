@@ -17,8 +17,8 @@ of continuing to further stifle innovation.
 Pirate Party UK believes that patents do not exist to allow big businesses to
 stifle competition with an ever-growing tide of trivial and overreaching
 patents. We would require patents to demonstrate the need for protection, by
-demonstrating that a new innovation could not be trivially replicated, 
-and that getting the innovation to market as a viable product would be 
+demonstrating that a new innovation could not be trivially replicated,
+and that getting the innovation to market as a viable product would be
 impossible without protection.
 
 ### Patents in the Information Society
