@@ -4,15 +4,9 @@ Copyright
 The Pirate Party UK wants a fair and balanced copyright law based on the
 interests of society as a whole.
 
-We strive for the abolition of information monopolies. The European
-Union and the UK Government have given in to a series of demands to introduce
-information monopolies that are supposedly designed to motivate creators and
-inventors to produce more works. In reality the only beneficiaries of
-the monopolies are huge corporations, while the market as a whole is
-failing. This market failure is apparent by the frequent bullying of
-individuals and SMEs by collecting societies and the loss of orphan
-works to society. Our goal is to create an environment where the
-motivation to create goes hand in hand with freedom of information.
+We strive for the abolition of information monopolies.
+
+the UK pirate party will not give in to demands from potential trade deals to create additional information monopolies and will remove information monopolies that exist within the UK. these monopolies that are supposedly designed to motivate creators and inventors to produce more works. In reality the only beneficiaries of the monopolies are huge corporations, while the market as a whole is failing. This market failure is apparent by the frequent bullying of individuals and SMEs by collecting societies and the loss of orphan works to society. Our goal is to create an environment where the motivation to create goes hand in hand with freedom of information.
 
 Improved public availability of information, knowledge and culture is a
 prerequisite for the social, technological and economic development of
@@ -27,9 +21,7 @@ reasonable term. Derivative works shall always be permitted, with
 exceptions that are very specifically enumerated in law with minimal
 room for interpretation.
 
-The internet as a medium should know no borders. The Pirate Party UK considers
-artificial national barriers for cultural goods a hindrance to the
-European internal market and demand their abolishment. A change of
+The internet as a medium should know no borders. The Pirate Party UK considers artificial national barriers for cultural goods a hindrance and demand their abolishment. A change of
 approach is required in the area of rights to intangible goods and
 their respective enforcement practices.
 
@@ -48,6 +40,6 @@ restricted by monopoly rights over intangible goods. The introduction
 of “fair use" regulations will ensure that social interactions remain
 unencumbered.
 
-European collecting societies must ensure comprehensive transparency,
+collecting societies must ensure comprehensive transparency,
 fair participatory rights for their members and fairer contract terms
 for artists.

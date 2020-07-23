@@ -1,0 +1,3 @@
+Food and other goods safety and standard
+==========================
+The UK pirate party Guarantees the best safety standards and standards will be adopted when trade deals are accepted. This guarantee the safety of citizens in the United Kingdom. We might adopt other countries sounded to be able to trade more easily of them, but standards will be picks and slowly phased in not to impact UK businesses that may take time to adopt these standards. Furthermore where the United Kingdom has a better standard or safety standard we will aim to keep that standard Over the alternative standard or not having a standard.
